@@ -17,7 +17,11 @@ a {
     color: aquamarine;
     font-size: 16px;
 }
+p {
+    font-size: 21px;
+    color: grey;
+}
 #copyright {
     color: grey;
-    text-align: left;
+    text-align: right;
 }
